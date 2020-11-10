@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Eugene, Oregon"
   date_start = "September 2016"
   date_end = "present"
-#  description = """
+  description = """
   Responsibilities include:
   
   * Analysing
