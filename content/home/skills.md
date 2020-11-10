@@ -21,6 +21,18 @@ subtitle = ""
 #  description = ""
 
 [[feature]]
+  icon = "chalkboard-teacher"
+  icon_pack = "fas"
+  name = "Science Communication"
+#  description = "Expertise"  
+
+[[feature]]
+  icon = "chalkboard"
+  icon_pack = "fas"
+  name = "Teaching"
+#  description = "Expertise"  
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
