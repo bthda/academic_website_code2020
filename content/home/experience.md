@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "University of Oregon"
   company_url = "https://psychology.uoregon.edu"
   location = "Eugene, Oregon"
-  date_start = "September 2016"
-  date_end = "present"
+  date_start = "2016-09-01"
+  date_end = ""
   description = """
   Responsibilities include:
   
@@ -36,8 +36,8 @@ date_format = "Jan 2006"
   company = "University of California Berkeley"
   company_url = ""
   location = "Berkeley, California"
-  date_start = "September 2014"
-  date_end = "June 2016"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2014-09-01"
+  date_end = "2016-06-30"
+  description = """Did research assitant stuff."""
 
 +++
