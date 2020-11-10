@@ -14,11 +14,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on the impressions people form of others during initial encounters.
+bio: My research focuses on the impressions people form of others during initial encounters and the contexts that lead to accuracy and bias
 
 interests:
 - Interpersonal Perception
 - Socioeconomic Status
+- Personality
 - Inequality
 
 education:
@@ -69,6 +70,8 @@ user_groups:
 - Visitors
 ---
 
-Bradley T. Hughes is a graduate student of psychology at the University of Oregon. His research interests include interpersonal perception, socioecnomic status, and inequality.
+Hi, I am currently a PhD student in Dr. Sanjay Srivastava's Personality and Social Dynamics lab at the University of Oregon. My research investigates the impressions people form of others after face-to-face interactions and looks to answer questions like: how do different contexts impact the accuracy and/or bias of these impressions? and, how do impressions of individual differences impact social decisions. An integral part of my work has been the development of experiemntal methods and analytical approaches to test my research questions in socioecnomically diverse populations.
+
+In addition, I support and practice open science, and have a keen interest in philosophy of science, and both research and quantitative methods.
 
 

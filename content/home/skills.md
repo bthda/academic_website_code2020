@@ -14,6 +14,12 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
+[[feature]]  
+  icon = "network-wired"
+  icon_pack = "fas"
+  name = "Research Methods"
+#  description = ""
+
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
@@ -23,14 +29,14 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Structurall Equation Modeling"
 #  description = "Expertise"  
 
-[[feature]]  
-  icon = "network-wired"
+[[feature]]
+  icon = "chart-line"
   icon_pack = "fas"
-  name = "Research Methods"
-#  description = ""
+  name = "Multilevel Modeling"
+#  description = "Expertise"  
 
 # Uncomment to use emoji icons.
 # [[feature]]
