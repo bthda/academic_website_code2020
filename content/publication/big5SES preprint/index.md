@@ -11,7 +11,7 @@ image:
   preview_only: false
 links:
 - name: Paper
-  url: https://online.ucpress.edu/collabra/article/7/1/24431/117346/The-Big-Five-Across-Socioeconomic-Status
+  url: https://online.ucpress.edu/collabra/article/7/1/24431/117346/The-Big-Five-Across-Socioeconomic-Status/
   
 - name: Preregistration
   url: https://osf.io/wv59a/
