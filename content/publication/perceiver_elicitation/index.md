@@ -3,7 +3,7 @@ abstract: People perceive similarity between their own personality characteristi
 authors:
 - Bradley T. Hughes, John C. Flournoy, & Sanjay Srivastava
 date: "2020-01-05T00:00:00Z"
-doi: "doi.org/10.1037/pspp0000369"
+doi: ""
 featured: false
 image:
   caption: ''
