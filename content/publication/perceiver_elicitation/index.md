@@ -13,7 +13,7 @@ links:
 - name: Paper
   url: https://psycnet.apa.org/record/2020-78682-001
 
-- name: Preregistration, Data, and Code
+- name: Preregistration Data and Code
   url: https://osf.io/qp86r/
   
 - Name: Preprint
