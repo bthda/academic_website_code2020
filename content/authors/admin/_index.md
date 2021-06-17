@@ -6,7 +6,8 @@ title: Bradley T. Hughes
 superuser: true
 
 # Role/position
-role: Graduate Student in the Personality and Social Dynamics Lab
+role: Doctoral Candidate,  
+Personality and Social Dynamics Lab
 
 # Organizations/Affiliations
 organizations:
@@ -70,8 +71,10 @@ user_groups:
 - Visitors
 ---
 
-Hi, I am currently a PhD student in Dr. Sanjay Srivastava's Personality and Social Dynamics lab at the University of Oregon. My research investigates the impressions people form of others after face-to-face interactions and looks to answer questions like: how do different contexts impact the accuracy and/or bias of these impressions? and, how do impressions of individual differences impact social decisions. An integral part of my work has been the development of experiemntal methods and analytical approaches to test my research questions in socioecnomically diverse populations.
+Hi, I am currently a PhD student in Dr. Sanjay Srivastava's Personality and Social Dynamics lab at the University of Oregon. My research investigates the impressions people form of others after face-to-face interactions, stereotypes that manifest in these impressions, and how they impact social decisions.
 
-In addition, I support and practice open science, and have a keen interest in philosophy of science, and both research and quantitative methods.
+An integral part of this work has been developing experimental and analytic approaches needed to examine these phenomena in actual interactions between real people from diverse populations.
+
+In addition, I practice open science (OSF page link here), and have a interest in philosophy of science, research and quantitative methods.
 
 

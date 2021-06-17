@@ -41,7 +41,7 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Structurall Equation Modeling"
+  name = "Structural Equation Modeling"
 #  description = "Expertise"  
 
 [[feature]]
