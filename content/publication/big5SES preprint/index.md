@@ -24,8 +24,7 @@ publication_short: ""
 
 publishDate: "2020-01-05T00:00:00Z"
 summary:  We use the AIID dataset, a large online study, to address three basic questions about personality and SES.
-tags:
-- Measurement Invariance
+
 title: Big Five Across Socioeconomic Status - Measurement Invariance, Relationships, and Age Trends
 
 ---

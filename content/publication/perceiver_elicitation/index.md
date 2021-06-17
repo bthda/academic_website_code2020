@@ -24,10 +24,7 @@ publication_short: ""
 
 publishDate: "2020"
 summary: We tested if assumed similarity, the tendency to perceive one's owm personality characteristics in others, was partially explained by the elicitation and accurate perceptions of similar behavior from others.
-tags:
-- assumed similarity
-- personality
-- interpersonal theory
+
 title: Integrating philosophical and psychological approaches to well-being - The role of success in personal projects
 
 ---
