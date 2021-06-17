@@ -27,8 +27,8 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
+  * Developing and supervising complex behavioral research projects.
+  * Teaching
   """
 
 [[experience]]
