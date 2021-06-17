@@ -6,8 +6,7 @@ title: Bradley T. Hughes
 superuser: true
 
 # Role/position
-role: Doctoral Candidate,  
-Personality and Social Dynamics Lab
+role: Doctoral Candidate, Personality and Social Dynamics Lab
 
 # Organizations/Affiliations
 organizations:
