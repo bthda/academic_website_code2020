@@ -7,6 +7,8 @@ abstract: "Associations between socioeconomic status (SES) and personality trait
 
 featured: true
 
+preview_only: true
+
 links:
 - name: Paper
   url: https://online.ucpress.edu/collabra/article/7/1/24431/117346/The-Big-Five-Across-Socioeconomic-Status/
