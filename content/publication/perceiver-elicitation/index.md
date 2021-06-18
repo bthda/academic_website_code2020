@@ -15,12 +15,12 @@ image:
 links:
 - name: Paper
   url: https://psycnet.apa.org/record/2020-78682-001/
-
-- name: Preregistration Data and Code
-  url: https://osf.io/qp86r/
   
-- Name: Preprint
+- Name: "Preprint"
   url: https://psyarxiv.com/axwdy/
+  
+- name: OSF Page
+  url: https://osf.io/qp86r/
   
 projects: []
 publication: '*Journal of Personality and Social Psychology*'
