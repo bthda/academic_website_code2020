@@ -70,10 +70,10 @@ user_groups:
 - Visitors
 ---
 
-Hi, I am currently a PhD student in Dr. Sanjay Srivastava's Personality and Social Dynamics lab at the University of Oregon. My research investigates the impressions people form of others after face-to-face interactions, stereotypes that manifest in these impressions, and how they impact social decisions.
+Hi, I am currently a PhD student in Dr. Sanjay Srivastava's [Personality and Social Dynamics lab](https://psdlab.uoregon.edu) at the University of Oregon. My research investigates the impressions people form of others after face-to-face interactions, stereotypes that manifest in these impressions, and how they impact social decisions.
 
 An integral part of this work has been developing novel experimental and analytic approaches needed to examine these phenomena in actual interactions between real people from diverse populations.
 
-In addition, I practice open science ([OSF pag](osf.io/p9vv3)), and have a interest in philosophy of science, research and quantitative methods.
+In addition, I practice open science ([OSF page](https://osf.io/p9vv3/)), and have a interest in philosophy of science, research and quantitative methods.
 
 
