@@ -22,11 +22,11 @@ links:
 - Name: Preprint
   url: https://psyarxiv.com/axwdy/
 projects: []
-publication: '*CJPSP*'
+publication: '*Journal of Personality and Socila Psychology*'
 publication_short:
 publication_types:
 - "2"
-publishDate: "2021-05-25T00:00:00"
+publishDate: "2020-10-22T00:00:00"
 #slides: 
 summary: 
 tags:
@@ -34,6 +34,4 @@ tags:
 - Measurement
 title: "Is perceived similarity more than assumed similarity? An interpersonal path to seeing similarity between self and
 others"
-url_pdf:
-url_project: https://osf.io/wv59a/
 ---
