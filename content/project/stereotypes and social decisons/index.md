@@ -1,5 +1,5 @@
 ---
-title: Stereotypes and Social Decisions: The Interpersonal Consequences of Socioeconomic Status
+title: `Stereotypes and Social Decisions: The Interpersonal Consequences of Socioeconomic Status`
 summary: In this project, I use the computer mediated online round robin to test how SES and SES-based stereotypes impact interpersonal decisons about hwo to be freinds with and who to trust. 
 
 tags:
