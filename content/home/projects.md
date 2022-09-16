@@ -38,8 +38,8 @@ subtitle = ""
   #   tag = "SES Stereotypes"
   
   # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  #   name = "Psychological Impacts of SES"
+  #   tag = "Impacts of SES"
   
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
