@@ -1,7 +1,5 @@
 ---
-title: SES  
-Stereotypes  
-and Social Decisions
+title: SES,           Stereotypes, and Social Decisions
 
 summary: In this project, we use the computer mediated online round robin (CMORR) to test how SES and SES_based interpersonal stereotypes impact social decisions about who to be friends with and who to trust.
 
