@@ -1,6 +1,7 @@
 ---
 title: Occupational Prestige
-summary: An example of linking directly to an external project website using `external_link`.
+summary: IN this work, we collected and validated a new index of the occupational prestige of >1000 O*NET occupations. To find out more or learn how to measure occupational pretige, click here  `https://www.occupationalprestige.com`.
+
 tags:
 - Demo
 date: "2016-04-27T00:00:00Z"
