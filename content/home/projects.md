@@ -34,8 +34,8 @@ subtitle = ""
   #   tag = "Occupational Prestige"
 
   # [[content.filter_button]]
-  #   name = "Stereotypes and Social Decisions: The Interpersonal Consequences of Socioeconomic Status"
-  #   tag = "SES Stereotypes"
+  #   name = "Deep Learning"
+  #   tag = "Deep Learning"
   
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
