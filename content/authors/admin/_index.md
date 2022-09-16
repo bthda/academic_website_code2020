@@ -17,16 +17,16 @@ organizations:
 bio: My research focuses on the impressions people form of others during initial encounters and the contexts that lead to accuracy and bias in these impressions.
 
 interests:
+- Inequality
 - Interpersonal Perception
 - Socioeconomic Status
 - Personality
-- Inequality
 
 education:
   courses:
   - course: PhD in Psychology
     institution: University of Oregon
-    year: anticipated 2022
+    year: anticipated 2023
   - course: MS in Psychology
     institution: University of Oregon
     year: 2018
@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-Hi, I am currently a PhD student in Dr. Sanjay Srivastava's [Personality and Social Dynamics lab](https://psdlab.uoregon.edu) at the University of Oregon. My research investigates the impressions people form of others after face-to-face interactions, stereotypes that manifest in these impressions, and how they impact social decisions.
+Hi, I am currently a Doctoral Candidate in Dr. Sanjay Srivastava's [Personality and Social Dynamics lab](https://psdlab.uoregon.edu) at the University of Oregon. My research investigates the impressions people form of others after face-to-face interactions, the stereotypes that manifest in these impressions, and how they impact social decisions.
 
 An integral part of this work has been developing novel experimental and analytic approaches needed to examine these phenomena in actual interactions between real people from diverse populations.
 
