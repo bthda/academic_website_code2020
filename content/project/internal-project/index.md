@@ -1,5 +1,5 @@
 ---
-title: Computer Mediated Online Round Robin: CMORR ("see-more")
+title: CMORR
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
