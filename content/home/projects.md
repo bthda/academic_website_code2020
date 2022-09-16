@@ -30,8 +30,8 @@ subtitle = ""
   #   tag = "Deep Learning"
   
   # [[content.filter_button]]
-  #   name = "Occupational Prestige"
-  #   tag = "Occupational Prestige"
+  #   name = "Other"
+  #   tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

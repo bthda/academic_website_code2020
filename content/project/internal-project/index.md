@@ -1,5 +1,5 @@
 ---
-title: Internal Project
+title: Computer Mediated Online Round Robin: CMORR ("see-more")
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
