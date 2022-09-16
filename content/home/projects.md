@@ -37,6 +37,10 @@ subtitle = ""
   #   name = "SES,Stereotypes, and Social Decisions"
   #   tag = "SES Stereotypes"
   
+  # [[content.filter_button]]
+  #   name = "Deep Learning"
+  #   tag = "Deep Learning"
+  
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
