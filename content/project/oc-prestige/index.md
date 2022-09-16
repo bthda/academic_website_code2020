@@ -1,6 +1,6 @@
 ---
 title: Occupational Prestige
-summary: IN this work, we collected and validated a new index of the occupational prestige of >1000 O*NET occupations. To find out more or learn how to measure occupational pretige, click here  `https://www.occupationalprestige.com`.
+summary: In this work, we collected and validated a new index of the occupational prestige of >1000 O*NET occupations. Click here for more info about how to easily incorporate this measure into your own work on SES.
 
 tags:
 - Demo
