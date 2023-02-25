@@ -34,7 +34,9 @@ publishDate: ""
 #slides: 
 summary: 
 tags:
-- Personality
+- Socioeconomic Status
+- Status
+- Individual Difference
 - Measurement
 title: "Occupational Prestige: The Status Component of Socioeconomic Status"
 ---
