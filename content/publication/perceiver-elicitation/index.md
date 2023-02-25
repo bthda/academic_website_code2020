@@ -19,7 +19,7 @@ links:
 - name: Preprint
   url: https://psyarxiv.com/axwdy/
   
-- name: OSF Page
+- name: Code, Data, and Materials
   url: https://osf.io/qp86r/
   
 projects: []
