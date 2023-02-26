@@ -3,19 +3,8 @@ abstract: "Associations between socioeconomic status (SES) and personality trait
 
 authors:
 
-- "Bradley T. Hughes, Cory K. Costello, Joshua Pearman, Pooya Razavi, Cianna Bedford-Petersen, Rita M. Ludwig, Sanjay Srivastava""
+- Bradley T. Hughes, Cory K. Costello, Joshua Pearman, Pooya Razavi, Cianna Bedford-Petersen, Rita M. Ludwig, Sanjay Srivastava
 
-
-
-
-
-
-
-
-
--
-
-- admin
 
 date: "2021-05-25T00:00:00"
 doi: ""
