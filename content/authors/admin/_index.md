@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on the impressions people form of others during initial encounters and the contexts that lead to accuracy and bias in these impressions.
+bio: My research investigates the impressions people form of others during face-to-face interactions, the stereotypes that manifest in these impressions, and how they impact social decisions.
 
 interests:
 - Inequality
