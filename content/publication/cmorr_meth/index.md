@@ -3,9 +3,8 @@ abstract: "Research on impressions and social interactions in the field of psych
 
 authors:
 
-- "Sanjay Srivastava"
+- Bradley T. Hughes & Sanjay Srivastava
 
-- admin
 
 date: "2023-02-25"
 doi: "10.31234/osf.io/f3k9b"
