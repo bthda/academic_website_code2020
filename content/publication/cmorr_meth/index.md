@@ -17,7 +17,7 @@ links:
 - name: Preprint
   url: https://psyarxiv.com/f3k9b/
 - name: CMORR Manual 
-  url: https://osf.io/y2rke/
+  url: /files/cmorr_manual2023.pdf
 - name: "Code, Data"
   url: https://osf.io/y2rke/
 projects: []
