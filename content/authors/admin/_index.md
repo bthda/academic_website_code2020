@@ -17,16 +17,18 @@ organizations:
 bio: My research investigates the impressions people form of others during face-to-face interactions, the stereotypes that manifest in these impressions, and how they impact social decisions.
 
 interests:
-- Inequality
 - Interpersonal Perception
+- Inequality
 - Socioeconomic Status
 - Personality
+- Social Interactions
+- Quantitative Modeling
 
 education:
   courses:
   - course: PhD in Psychology
     institution: University of Oregon
-    year: anticipated 2023
+    year: 2023
   - course: MS in Psychology
     institution: University of Oregon
     year: 2018
@@ -41,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:bhughes7@uoregon.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:hughes.bradleyt@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/bradleyt_hughes
