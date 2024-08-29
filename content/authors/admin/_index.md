@@ -68,7 +68,7 @@ user_groups:
 - Visitors
 ---
 
-Hi, I am currently a researcher in Dr. Nicholas Rule's [Social Perception and Cognition Lab](https://psdlab.uoregon.edu) at the University of Toronto. My research investigates the impressions people form of others during face-to-face interactions, the stereotypes that bias these impressions, and how they impact social decisions.
+Hi, I am currently a researcher in Dr. Nicholas Rule's [Social Perception and Cognition Lab](https://psdlab.uoregon.edu) at the University of Toronto. My research investigates the impressions people form of others during face-to-face interactions, the stereotypes that emerge in these impressions, and how they influence key social decisions, such as who to befriend or trust.
 
 An integral part of this work has been developing novel experimental and analytic approaches needed to examine these phenomena in social interactions between real people from diverse populations.
 
