@@ -23,7 +23,7 @@ links:
 - name: "Code, Data"
   url: https://osf.io/y2rke/
 projects: []
-publication: ''
+publication: 'Social Psychology and Personality Science'
 publication_short:
 publication_types:
 - "2"
