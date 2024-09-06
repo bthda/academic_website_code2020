@@ -1,7 +1,7 @@
 ---
 title: Interpersonal Stereotypes
 
-summary: In this project, we use the computer mediated online round robin (CMORR) to test how SES and SES_based interpersonal stereotypes impact social decisions about who to be friends with and who to trust.
+summary: The study of interpersonal stereotypes examines how an individual's: a) position in a social hierarchy, b) group membership, or c) identity bias impressions of their personality traits. 
 
 tags:
 - Interpersonal Stereotypes
