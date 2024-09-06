@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Areas of Research
 cms_exclude: true
 
 # View.

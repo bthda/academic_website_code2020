@@ -1,10 +1,10 @@
 ---
-title: SES,           Stereotypes, and Social Decisions
+title: Interpersonal Stereotypes
 
 summary: In this project, we use the computer mediated online round robin (CMORR) to test how SES and SES_based interpersonal stereotypes impact social decisions about who to be friends with and who to trust.
 
 tags:
-- SES Stereotypes
+- Interpersonal Stereotypes
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -18,7 +18,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url:
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -32,4 +32,7 @@ url_video: ""
 slides: example
 ---
 
-In order to study SES stereotyping in a diverse population, I recently completed the first CMORR study with an online community sample. In this work, funded by a grant I received from Oregon Consumer Justice, I recruited participants (N = 303) from Prolific. People from across the US told each other about a negative consumer experience before providing judgments about their partner’s SES and personality, their interest in affiliating with their partner, and the credibility of their partner’s consumer complaint. I am currently conducting the preregistered analyses with this data and look forward to reporting what SES-based stereotyping looks like in a diverse population. Moreover, the results from this study will test the hypothesis that perceptions of SES are associated with social decisions that have important consequences for reifying group boundaries and perpetuating inequality.
+*Interpersonal stereotypes* are the association between perceptions of an individual's: a) position in a social hierarchy, b) group membership, or c) identity, and biased impressions of their personality traits. 
+
+
+In the first study of interpersonal stereotypes, I investigated how socioeconomic status (SES) biases impressions of individual's personality traits and in turn influences decisions about social affiliation and consumer credibility. We recruited 297 people from across the United states to interact one on one with up to five other participants via video chat. They shared stories about a negative consumer experience, discussed them, and then made personality and social judgement about each other. The results of this study show: 1. People accurately perceive others' SES; 2. Perceptions of SES are associated with interpersonal stereotypes (in all 12 traits we measured) that universally favored people with higher SES. 3. SES indirectly effects affiliation interest, and consumer sympathy and credibility through interpersonal stereotypes.
