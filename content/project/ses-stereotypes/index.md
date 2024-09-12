@@ -1,6 +1,6 @@
 ---
 title: Interpersonal Stereotypes
-summary: The study of interpersonal stereotypes examines how an individual's: a) position in a social hierarchy, b) group membership, or c) identity bias impressions of their personality traits.
+summary: `The study of interpersonal stereotypes examines how an individual's: a) position in a social hierarchy, b) group membership, or c) identity bias impressions of their personality traits.`
 
 tags:
 - Interpersonal Stereotypes
