@@ -195,7 +195,7 @@ plugins_js  = []
 # Configuration of project pages.
 [projects]
   # Views for associated content.
-  #   1: List
+    1: List
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
