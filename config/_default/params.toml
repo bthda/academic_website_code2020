@@ -192,6 +192,8 @@ plugins_js  = []
   # Citation style ("apa" or "mla")
   citation_style = "apa"
 
+ publication_view = 4
+
 # Configuration of project pages.
 [Areas of Research]
   # Views for associated content.
