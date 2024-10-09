@@ -1,8 +1,8 @@
 ---
-title: Psychological Impacts of SES
+title: Impression Formation
 summary: In this project, we test the effects of the experience of financial stress on inhibitory control, an executive function associated with self-control.
 tags:
-- Impacts of SES
+- Impressions
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -12,11 +12,7 @@ image:
   caption: P
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+links: ""
 url_code: ""
 url_pdf: ""
 url_slides: ""
