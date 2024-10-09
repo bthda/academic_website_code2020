@@ -1,6 +1,7 @@
 ---
 title: Impression Formation
-summary: In this project, we test the effects of the experience of financial stress on inhibitory control, an executive function associated with self-control.
+summary: In this area of research, I examine fundamental questions about impression formation.
+
 tags:
 - Impressions
 date: "2016-04-27T00:00:00Z"
