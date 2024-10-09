@@ -13,11 +13,7 @@ image:
   caption: 
   focal_point: Smart
 
-links:
-  icon: ""
-  icon_pack: """
-  name: ""
-  url: ""
+links: ""
 url_code: ""
 url_pdf: ""
 url_slides: ""
