@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Projects"
+title = "Research"
 subtitle = ""
 
 [content]
@@ -26,20 +26,20 @@ subtitle = ""
   #   tag = "*"
   
   # [[content.filter_button]]
-  #   name = "CMORR"
+  #   name = "Computer Mediated Online Round Robin (CMORR, "see-more")"
   #   tag = "CMORR"
   
   # [[content.filter_button]]
-  #   name = "Occupational Prestige"
-  #   tag = "Occupational Prestige"
+  #   name = "SES Measurement and Effects"
+  #   tag = "SES"
 
   # [[content.filter_button]]
-  #   name = "SES,Stereotypes, and Social Decisions"
-  #   tag = "SES Stereotypes"
+  #   name = "Interpersonal Stereotypes"
+  #   tag = "Stereotypes"
   
   # [[content.filter_button]]
-  #   name = "Psychological Impacts of SES"
-  #   tag = "Impacts of SES"
+  #   name = "Impression Formation"
+  #   tag = "Impresssions"
   
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
