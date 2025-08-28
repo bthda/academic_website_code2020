@@ -76,6 +76,6 @@ Dr. Hughes's research draws on the methods and theories of interpersonal percept
 
 An integral part of this work research is developing novel experimental and analytic approaches needed to examine these phenomena in social interactions between real people from diverse populations.
 
-Dr. Hughes practices open science and posts study materials, data, and analysis code to the Open Science Framework ([OSF](https://osf.io/p9vv3/)). He is also interested in philosophy of science, research methods, and quantitative modeling.
+Dr. Hughes practices open science. Study materials, data, and analysis code are available on the Open Science Framework ([OSF](https://osf.io/p9vv3/)). He is also interested in philosophy of science, research methods, and quantitative modeling.
 
 Want to know more? Check out the publications and projects below!
