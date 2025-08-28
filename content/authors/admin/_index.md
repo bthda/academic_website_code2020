@@ -43,10 +43,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:hughes.bradleyt@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/bradleyt_hughes
+  link: 'mailto:hughes.bradleyt@gmail.com' # For a direct email link, use "mailto:test@example.org".
+- icon: bluesky
+  icon_pack: v6
+  link: https://bsky.app/profile/bradleyhughes.bsky.social
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=rLWR8tcAAAAJ&hl=en
@@ -70,14 +70,21 @@ user_groups:
 - Visitors
 ---
 
-Hi, I am currently a researcher in Dr. Nicholas Rule's [Social Perception and Cognition Lab](https://psdlab.uoregon.edu) at the University of Toronto. 
+Dr. Bradley T. Hughes is an Assistant Professor of IO Psychology in the [Department of 
+Psychological and Brain Sciences at Villanova University] 
+(https://www1.villanova.edu/university/liberal-arts-sciences/programs/psychological-brain-sciences.html). 
 
-In my research, I draw on the methods and theories of interpersonal perception, personality science, and social cognition to study impressions formed during social interactions. I develop and test models to understand how various factors—such as context and social identity—affect impressions and influence key social decisions, like whom to befriend or trust. Put differently, I study social cognition in context with the goal of understanding the interpersonal forces that maintain social and economic inequality. 
+Dr. Hughes's research draws on the methods and theories of interpersonal perception, personality science, and social cognition to 
+better understand the impressions people form of one another during social interactions, how these impressions
+are biased by factors such as context and social identity, and how this in turn affects
+interpersonal decisions and judgments like trust and affiliation. He studies these psychological phenomena in real-world social interactions 
+with the goal of understanding how interpersonal forces contribute to the maintenance of social and economic inequality.
+He is particularly interested in how biased impressions inhibit upward economic mobility in the context of hiring and promotion decisions.
 
-To accomplish this, I have conducted research in three areas: 1) SES measurement and its effects on psychological functioning, 2) interpersonal perception of personality traits, and 3) interpersonal stereotypes and social outcomes. 
+To accomplish this, Dr. Hughes has conducted research in three main areas: 1) SES measurement and its effects on psychological functioning, 2) interpersonal perception of personality traits, and 3) interpersonal stereotypes and social outcomes. 
 
-An integral part of my research is developing novel experimental and analytic approaches needed to examine these phenomena in social interactions between real people from diverse populations.
+An integral part of his research is developing novel experimental and analytic approaches needed to examine these phenomena in social interactions between real people from diverse populations.
 
-I also practice open science ([OSF page](https://osf.io/p9vv3/)), and have a interest in philosophy of science, research and quantitative methods.
+Dr. Hughes also practices open science ([OSF page](https://osf.io/p9vv3/)), is interested in philosophy of science, research methods and quantitative modeling.
 
-If you want to know more, check out my papers and projects below!
+Want to know more? Check out the publications and projects below!
