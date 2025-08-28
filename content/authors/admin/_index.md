@@ -70,21 +70,12 @@ user_groups:
 - Visitors
 ---
 
-Dr. Bradley T. Hughes is an Assistant Professor of IO Psychology in the [Department of 
-Psychological and Brain Sciences at Villanova University] 
-(https://www1.villanova.edu/university/liberal-arts-sciences/programs/psychological-brain-sciences.html). 
+Dr. Bradley T. Hughes is an Assistant Professor of IO Psychology in the [Department of Psychological and Brain Sciences at Villanova University](https://www1.villanova.edu/university/liberal-arts-sciences/programs/psychological-brain-sciences.html). 
 
-Dr. Hughes's research draws on the methods and theories of interpersonal perception, personality science, and social cognition to 
-better understand the impressions people form of one another during social interactions, how these impressions
-are biased by factors such as context and social identity, and how this in turn affects
-interpersonal decisions and judgments like trust and affiliation. He studies these psychological phenomena in real-world social interactions 
-with the goal of understanding how interpersonal forces contribute to the maintenance of social and economic inequality.
-He is particularly interested in how biased impressions inhibit upward economic mobility in the context of hiring and promotion decisions.
+Dr. Hughes's research draws on the methods and theories of interpersonal perception, personality science, and social cognition to better understand the impressions people form of one another during social interactions, how these impressions are biased by factors such as context and social identity, and how this in turn affects interpersonal decisions and judgments like trust and affiliation. He studies these psychological phenomena in real-world social interactions with the goal of understanding how interpersonal forces contribute to the maintenance of social and economic inequality. He is particularly interested in how biased impressions inhibit upward economic mobility in the context of hiring and promotion decisions.
 
-To accomplish this, Dr. Hughes has conducted research in three main areas: 1) SES measurement and its effects on psychological functioning, 2) interpersonal perception of personality traits, and 3) interpersonal stereotypes and social outcomes. 
+An integral part of this work research is developing novel experimental and analytic approaches needed to examine these phenomena in social interactions between real people from diverse populations.
 
-An integral part of his research is developing novel experimental and analytic approaches needed to examine these phenomena in social interactions between real people from diverse populations.
-
-Dr. Hughes also practices open science ([OSF page](https://osf.io/p9vv3/)), is interested in philosophy of science, research methods and quantitative modeling.
+Dr. Hughes practices open science and posts study materials, data, and analysis code to the Open Science Framework ([OSF](https://osf.io/p9vv3/)). He is also interested in philosophy of science, research methods, and quantitative modeling.
 
 Want to know more? Check out the publications and projects below!
