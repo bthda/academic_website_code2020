@@ -6,21 +6,22 @@ title: Bradley T. Hughes
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow, Social Perception and Cognition Lab
+role: Assistant Professor, Department of Psychological and Brain Sciences, Villanova University
 
 # Organizations/Affiliations
 organizations:
-- name: University of Toronto
+- name: Villanova University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research investigates the impressions people form of others during face-to-face interactions, the stereotypes that manifest in these impressions, and how they impact social decisions.
 
 interests:
-- Interpersonal Perception
+- Hierarchies
+- Impressions
 - Inequality
-- Socioeconomic Status
 - Personality
+- Socioeconomic Status
 - Social Interactions
 - Quantitative Modeling
 
