@@ -9,7 +9,7 @@ doi: "https://doi.org/10.1037/pspp0000541"
 featured: true
 image:
   caption: 
-  focal_point: ""
+  focal_point: "left"
   preview_only: false
 links:
 - name: Paper
