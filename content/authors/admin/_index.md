@@ -6,7 +6,7 @@ title: Bradley T. Hughes
 superuser: true
 
 # Role/position
-role: Assistant Professor \n Department of Psychological and Brain Sciences
+role: Assistant Professor  Department of Psychological and Brain Sciences
 
 # Organizations/Affiliations
 organizations:
